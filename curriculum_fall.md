@@ -34,7 +34,7 @@ Reference: Grokking Algorithms (Handout)
 Dictionaries
 
 Week 4: Introduction to Object-Oriented Programming
-Reference: Udacity Programming Foundations Lesson 2, Begginning Python from Novice to Professional: Chapter 7
+Reference: Udacity Programming Foundations Lesson 2, Beginning Python from Novice to Professional: Chapter 7
 
 November: Intro to Object-Oriented Programming
 
