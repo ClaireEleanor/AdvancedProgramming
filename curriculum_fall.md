@@ -1,5 +1,6 @@
 # GFS Advanced Programming Semester Schedule
-Instructor: Nick Renner
+##Instructor: Nick Renner
+---
 
 Fall Semester (September - December):
 Python: Advanced CS Topics and intro to Object-Oriented Programming
