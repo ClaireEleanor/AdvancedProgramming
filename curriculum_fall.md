@@ -18,10 +18,10 @@ Project Euler
 
 ###Week 2: Functions / Intro to Abstraction
 
-Reference: Begginning Python from Novice to Professional: Chapter 6
+Reading: Begginning Python from Novice to Professional: Chapter 6 (Pages 109 - 121)
 
-Udacity Programming Foundations Lesson 1
-
+Further Exploration: Udacity Programming Foundations Lesson 1: Use Functions - 
+https://classroom.udacity.com/courses/ud036/
 
 
 ###Week 3: Intro to Notation
