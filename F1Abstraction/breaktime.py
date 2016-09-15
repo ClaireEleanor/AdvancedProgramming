@@ -1,7 +1,7 @@
 import time
 import webbrowser
 
-link = "https://www.youtube.com/watch?v=dQw4w9WgXcQ" # link to video
+link = "https://www.youtube.com/watch?v=oHg5SJYRHA0" # link to video
 
 wait_time = 20  # seconds
 total_breaks = 3  # number of breaks throughout the day
