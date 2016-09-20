@@ -4,7 +4,7 @@ def pal(n):
   if str(n) == str(n)[::-1]:
     return True
   else:
-   return True
+   return False
 
 highpal=0
 
@@ -13,5 +13,4 @@ for i in range(100, 999):
     num = i * j
     if pal(num) == True and num > highpal:
       highpal = num
-      print(highpal)
-
+print(highpal)
