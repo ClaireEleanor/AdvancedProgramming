@@ -1,16 +1,11 @@
-#!/usr/bin/python
 
-def pal(n):
-  if str(n) == str(n)[::-1]:
-    return True
-  else:
-   return False
 
-highpal=0
+def ispalindrome(word):
+    if len(word) < 2:
+        return True
+    if word[0] != word[-1]:
+        return False
+    return ispalindrome(word[1:-1])
 
-for i in range(100, 999):
-  for j in range (100,999):
-    num = i * j
-    if pal(num) == True and num > highpal:
-      highpal = num
-print(highpal)
+def ispalindrome1(word):
+    return word == word[::-1]
