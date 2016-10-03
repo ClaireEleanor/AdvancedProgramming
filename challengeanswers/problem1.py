@@ -10,4 +10,4 @@ for i in range(0,len(digits)-13):
   product = int(digits[i])*int(digits[i+1])*int(digits[i+2])*int(digits[i+3])*int(digits[i+4])*int(digits[i+5])*int(digits[i+6])*int(digits[i+7])*int(digits[i+8])*int(digits[i+9])*int(digits[i+10])*int(digits[i+11])*int(digits[i+12])
   if product > high:
     high = product
-    print high
+print high
