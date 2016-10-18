@@ -1,21 +1,23 @@
-1. Write a Python script to sort (ascending and descending) a dictionary by value. 
 
-2. Write a Python script to add key to a dictionary. 
+
+1. Write a Python script to add key to a dictionary. 
 
 	Sample Dictionary : {0: 10, 1: 20}
 	Expected Result : {0: 10, 1: 20, 2: 30}
 
-3. Write a Python script to concatenate following dictionaries to create a new one. 
+2. Write a Python script to concatenate following dictionaries to create a new one. 
 
 	Sample Dictionary :
 	dic1={1:10, 2:20}
 	dic2={3:30, 4:40}
 	dic3={5:50,6:60}
-Expected Result : {1: 10, 2: 20, 3: 30, 4: 40, 5: 50, 6: 60}
+	Expected Result : {1: 10, 2: 20, 3: 30, 4: 40, 5: 50, 6: 60}
 
-4. Write a Python script to check if a given key already exists in a dictionary. 
+3. Write a Python script to check if a given key already exists in a dictionary. 
 
-5. Write a Python program to iterate over dictionaries using for loops. 
+4. Write a Python program to iterate over dictionaries using for loops. 
+
+5. Write a Python script to sort (ascending and descending) a dictionary by value. 
 
 6. Write a Python script to generate and print a dictionary that contains number (between 1 and n) in the form (x, x*x). 
 Sample Dictionary ( n = 5) :
