@@ -2,15 +2,15 @@
 
 2. Write a Python script to add key to a dictionary. 
 
-Sample Dictionary : {0: 10, 1: 20}
-Expected Result : {0: 10, 1: 20, 2: 30}
+	Sample Dictionary : {0: 10, 1: 20}
+	Expected Result : {0: 10, 1: 20, 2: 30}
 
 3. Write a Python script to concatenate following dictionaries to create a new one. 
 
-Sample Dictionary :
-dic1={1:10, 2:20}
-dic2={3:30, 4:40}
-dic3={5:50,6:60}
+	Sample Dictionary :
+	dic1={1:10, 2:20}
+	dic2={3:30, 4:40}
+	dic3={5:50,6:60}
 Expected Result : {1: 10, 2: 20, 3: 30, 4: 40, 5: 50, 6: 60}
 
 4. Write a Python script to check if a given key already exists in a dictionary. 
