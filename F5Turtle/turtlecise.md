@@ -6,4 +6,8 @@
 
 4. By drawing only squares, create a circle
 
-4. Explore!
+5. Draw your initials
+
+6. Draw a flower
+
+7. Explore!
