@@ -64,55 +64,55 @@ Turtle state
         tiltangle()
         tilt()
 
-Using events
-    onclick()
-    onrelease()
-    ondrag()
-    mainloop() | done()
-Special Turtle methods
-    begin_poly()
-    end_poly()
-    get_poly()
-    clone()
-    getturtle() | getpen()
-    getscreen()
-    setundobuffer()
-    undobufferentries()
-    tracer()
-    window_width()
-    window_height()
+	Using events
+	    onclick()
+	    onrelease()
+	    ondrag()
+	    mainloop() | done()
+	Special Turtle methods
+	    begin_poly()
+	    end_poly()
+	    get_poly()
+	    clone()
+	    getturtle() | getpen()
+	    getscreen()
+	    setundobuffer()
+	    undobufferentries()
+	    tracer()
+	    window_width()
+	    window_height()
 
 Screen
 
-Window control
-    bgcolor()
-    bgpic()
-    clear() | clearscreen()
-    reset() | resetscreen()
-    screensize()
-    setworldcoordinates()
-Animation control
-    delay()
-    tracer()
-    update()
-Using screen events
-    listen()
-    onkey()
-    onclick() | onscreenclick()
-    ontimer()
-Settings and special methods
-    mode()
-    colormode()
-    getcanvas()
-    getshapes()
-    register_shape() | addshape()
-    turtles()
-    window_height()
-    window_width()
-Methods specific to Screen
-    bye()
-    exitonclick()
-    setup()
-    title()
+	Window control
+	    bgcolor()
+	    bgpic()
+	    clear() | clearscreen()
+	    reset() | resetscreen()
+	    screensize()
+	    setworldcoordinates()
+	Animation control
+	    delay()
+	    tracer()
+	    update()
+	Using screen events
+	    listen()
+	    onkey()
+	    onclick() | onscreenclick()
+	    ontimer()
+	Settings and special methods
+	    mode()
+	    colormode()
+	    getcanvas()
+	    getshapes()
+	    register_shape() | addshape()
+	    turtles()
+	    window_height()
+	    window_width()
+	Methods specific to Screen
+	    bye()
+	    exitonclick()
+	    setup()
+	    title()
 
 
