@@ -28,14 +28,5 @@ for i in range(180):
 nick.forward(20)
 nick.left(135)
 nick.forward(71)
-'''
-    nick.penup()
-    nick.setposition(0, 0)
-    nick.pendown()
-
-    nick.right(2)
-
-
-'''
 
 window.exitonclick()
