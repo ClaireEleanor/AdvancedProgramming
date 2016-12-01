@@ -52,42 +52,29 @@ Dictionaries
 
 Reference: Beginning Python from Novice to Professional: Chapter 7
 
-Udacity Programming Foundations Lesson 2
-
 ###November: Intro to Object-Oriented Programming
 
 ###Week 1: Using Objects
 
 Draw with turtle 
 
-Reference: Udacity Programming Foundations Lesson 2
+###Week 2: Classes
 
-###Week 2: Using Objects Cont’d
-
-Language editor
-
-Reference: Udacity Programming Foundations Lesson 3
+Classes and inheritance
 
 ###Week 3: Reviewing Object Documentation and Practice
 
-###Week 4: Intro to Making Classes
-
-Reference: Udacity Programming Foundations Lesson 3
+###Week 4: Final Project
 
 
 ###December: Semester Project
-###Week 1: Making Classes - Movie website
-
-Reference: Udacity Programming Foundations Lesson 3
+###Week 1: Final Project
 
 
-###Week 2:
+###Week 2: Final Project
 
 Final Semester Project
 
-###Week 3: 
-
-Final Semester Project
 
 
 
