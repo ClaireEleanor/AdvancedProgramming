@@ -1,4 +1,4 @@
-from primes import primecheck, primes
+from primes import primecheck, sieve
 import time
 
 n = 1000000
@@ -13,7 +13,7 @@ print
 print
 print "Sieve method"
 start = time.clock()
-primelist = primes(n)
+primelist = sieve(n)
 for i in primelist: print i
 timeTotals = time.clock() - start
 print
