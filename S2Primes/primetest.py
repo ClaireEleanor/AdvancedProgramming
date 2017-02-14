@@ -1,11 +1,11 @@
 from primes import primecheck, sieve
 import time
 
-n = 1000000
+n = 1000
 
 print "Primechecking method"
 start = time.clock()
-for i in range(n):
+for i in range(n+1):
     if primecheck(i): print i
 timeTotalc = time.clock() - start
 print
