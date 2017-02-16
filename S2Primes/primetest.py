@@ -1,7 +1,7 @@
 from primes import primecheck, sieve
 import time
 
-n = 1000
+n = 1000000
 
 print "Primechecking method"
 start = time.clock()

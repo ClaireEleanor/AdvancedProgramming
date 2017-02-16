@@ -11,8 +11,10 @@ def sieve(n):
     if n == 2: return [2]
     if n < 2: return []
     prime = [True] * n
+    for i in range(2, n, 2):
+        prime[i] = False
     for p in range(3, int(n**0.5)+1, 2):
         if prime[p]:
             for i in range(p * p, n, p):
                 prime[i] = False
-    return [2] + [p for p in range(3, n, 2) if prime[p]]
+    return [p for p in range(3, n, 2) if prime[p]]
