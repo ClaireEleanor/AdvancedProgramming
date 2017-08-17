@@ -5,7 +5,7 @@
 
 Python: Advanced Python Topics and intro to Object-Oriented Programming
 
-1. Introduction
+### 1. Introduction
 
 An overview of course and expectations. Excercises to get back into programming shape!
 
