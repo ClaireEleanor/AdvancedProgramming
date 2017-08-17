@@ -2,7 +2,7 @@
 ## Instructor: Nick Renner
 ---
 
-Fall Semester (September - December):
+
 Python: Advanced Python Topics and intro to Object-Oriented Programming
 
 1. Introduction
@@ -29,7 +29,7 @@ We will explore the power of objects! Topics will include classes, instance vari
 
 We will all create a program utilizing OOP.
 
-WINTER BREAK.
+## WINTER BREAK.
 
 7. Introduction to Algorithms
 
