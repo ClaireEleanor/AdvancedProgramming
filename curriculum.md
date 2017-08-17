@@ -1,81 +1,53 @@
 # GFS Advanced Programming Semester Schedule
-##Instructor: Nick Renner
+## Instructor: Nick Renner
 ---
 
 Fall Semester (September - December):
-Python: Advanced CS Topics and intro to Object-Oriented Programming
+Python: Advanced Python Topics and intro to Object-Oriented Programming
 
-###September: Course Introduction/Python Refresher
-###Week 1: Course Introduction
+1. Introduction
 
-Comfortability/level of knowledge survey
+An overview of course and expectations. Excercises to get back into programming shape!
 
-Walkthrough of Git and GitHub
+2. Dictionaries
 
-Python brainteaser using functions and loops 
+We will learn how to use Dictionaries which are another helpful tool in Python. These are Python's implementation of the data structure "hash tables".
 
-Project Euler
+3. Abstraction
 
-###Week 2: Functions / Intro to Abstraction
+We will look at a universal Computer Science, which explains how programming languages make things easier to replicate. You're already familiar with abstraction from when you created your own methods.
 
-Reading: Begginning Python from Novice to Professional: Chapter 6 (Pages 109 - 121)
+4. Turtle
 
-Further Exploration: Udacity Programming Foundations Lesson 1: Use Functions - 
-https://classroom.udacity.com/courses/ud036/
+An introduction to object-oriented programming. We will draw things using Python's turtle class.
 
+5. Object-Oriented Programming
 
-###Week 3: Intro to Notation
+We will explore the power of objects! Topics will include classes, instance variables/methods, and inheritance.
 
-Reference: Grokking Algorithms (Handout)
+6. OOP Project
 
-###Week 4: Recursion 
+We will all create a program utilizing OOP.
 
-Reference: Grokking Algorithms (Handout)
+WINTER BREAK.
 
-###October: Advanced Topics in Python
+7. Introduction to Algorithms
 
-###Week 1: Recursion Practice
+We'll learn what an algorithm is, and how they are analyzed. We will learn about Big-O notation, a universal technique to analyze algorithm efficiency.
 
-Reference: Grokking Algorithms (Handout)
+8. Recursion
 
-###Week 2: Hash Tables
+We'll learn about recursion, a new technique to solve problems by calling methods on themselves.
 
-Reference: Grokking Algorithms (Handout)
+9. Sorting
 
-###Week 3: Hash Tables Practice
+We'll learn how the sorting functions you've been using actually work. What are their runtimes?
 
-Reference: Grokking Algorithms (Handout)
+10. Techniques
 
-Dictionaries
+We'll solve some advanced level problems to utilize what we've learned this year.
 
-###Week 4: Introduction to Object-Oriented Programming
+11. Hashtables (time bearing)
 
-Reference: Beginning Python from Novice to Professional: Chapter 7
-
-###November: Intro to Object-Oriented Programming
-
-###Week 1: Using Objects
-
-Draw with turtle 
-
-###Week 2: Classes
-
-Classes and inheritance
-
-###Week 3: Reviewing Object Documentation and Practice
-
-###Week 4: Final Project
-
-
-###December: Semester Project
-###Week 1: Final Project
-
-
-###Week 2: Final Project
-
-Final Semester Project
-
-
-
-
+If we have time, we'll learn the theory behind hashtables, which are how Python implements its Dictionaries.
 
