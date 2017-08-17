@@ -1,9 +1,11 @@
-# GFS Advanced Programming Curriculum 
+# GFS Advanced Programming Curriculum
 ## Instructor: Nick Renner
 ---
 
 
-Python: Advanced Python Topics and intro to Object-Oriented Programming
+Semester 1: Advanced Python Topics and intro to Object-Oriented Programming
+
+Semester 2: Introduction to Algorithms
 
 ### 1. Introduction
 
