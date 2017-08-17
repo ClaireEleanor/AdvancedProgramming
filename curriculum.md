@@ -1,4 +1,4 @@
-# GFS Advanced Programming Semester Schedule
+# GFS Advanced Programming Curriculum 
 ## Instructor: Nick Renner
 ---
 
@@ -50,4 +50,3 @@ We'll solve some advanced level problems to utilize what we've learned this year
 ### 11. Hashtables (time bearing)
 
 If we have time, we'll learn the theory behind hashtables, which are how Python implements its Dictionaries.
-
