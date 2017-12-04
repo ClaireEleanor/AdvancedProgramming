@@ -32,3 +32,22 @@ class Square(Rectangle):
 
     def __str__(self):
         return "Square has a sidelength of %.2f, an area of %.2f, and a perimeter of %.2f" % (self.x, self.area(), self.perimeter())
+
+class RtTriangle():
+    def __init__(self, x, y):
+        self.x = x
+        self.y = y
+
+    def hypot(self):
+        return (self.x**2 + self.y**2)**.5
+
+    def area(self):
+        return (self.x*self.y)/2.0
+
+    def perimeter(self):
+        return self.x + self.y + self.hypot()
+
+class EquRtTriangle(RtTriangle):
+    def __init__(self, x):
+        self.x = x
+        self.y = x
