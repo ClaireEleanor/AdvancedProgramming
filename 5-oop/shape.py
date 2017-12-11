@@ -51,3 +51,42 @@ class EquRtTriangle(RtTriangle):
     def __init__(self, x):
         self.x = x
         self.y = x
+
+class Depth():
+    def __init__(self, x, y, z):
+        self.x = x
+        self.y = y
+        self.z = z
+
+
+    def area(self):
+            return self.x*self.y
+
+    def surfacearea(self):
+        return self.perimeter()*self.z + 2*self.area()
+
+    def volume(self):
+            return self.area()*self.z
+
+class Box(Rectangle, Depth):
+    def __init__(self, x, y, z):
+        self.x = x
+        self.y = y
+        self.z = z
+
+class Cube(Square, Depth):
+    def __init__(self, x):
+        self.x = x
+        self.y = x
+        self.z = x
+
+class Cylinder(Circle, Depth):
+    def __init__(self, r, z):
+        self.x = r
+        self.z = z
+
+class Wedge(RtTriangle, Depth):
+    def __init__(self, x, y, z):
+        self.x = x
+        self.y = y
+        self.z = z
